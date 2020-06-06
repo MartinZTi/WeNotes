@@ -1,0 +1,29 @@
+{
+    "created_time": "2020-02-12T04:05:21Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "1.JavaWeb"
+        },
+        {
+            "name": "2.Maven"
+        },
+        {
+            "name": "3.Spring"
+        },
+        {
+            "name": "4.SpringBoot"
+        },
+        {
+            "name": "5.Redis"
+        },
+        {
+            "name": "6.微信小程序开发"
+        },
+        {
+            "name": "7.Git"
+        }
+    ],
+    "version": "1"
+}

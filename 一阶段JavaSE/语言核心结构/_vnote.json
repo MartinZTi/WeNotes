@@ -1,0 +1,17 @@
+{
+    "created_time": "2020-02-12T08:09:55Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "1.Java语言概述"
+        },
+        {
+            "name": "2.基本语法"
+        },
+        {
+            "name": "3.数组"
+        }
+    ],
+    "version": "1"
+}

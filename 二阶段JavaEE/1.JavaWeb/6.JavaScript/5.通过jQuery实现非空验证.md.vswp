@@ -1,0 +1,32 @@
+vnote_backup_file_826537664 C:/Users/owen/Documents/vnote_notebooks/大数据学习/二阶段JavaEE/1.JavaWeb/6.JavaScript/4.通过jQuery实现表单非空验证.md
+# 5.通过jQuery实现表单非空验证
+给登录绑定单击事件
+:::alert-danger
+注意： 方法返回值 为 **false**, 即可中止默认submit提交表单行为
+:::
+```html
+<script type="text/javascript">
+    $(function () {
+        $("#username").focus(function () {
+            $("#spanMsg").hide("slow");
+        });
+        // 给登录按钮绑定单击事件
+        $("#sub").click(function () {
+           //获取用户输入的用户名
+            var username = $("#username").val();
+            // 判断
+            if(username == ""){
+                alert("用户名不能为空");
+                // 取消默认行为
+                return false;
+            }
+            // 同理获取密码判空
+            var passwd = $("#passwd").val();
+            if(passwd == ""){
+                alert("密码不能为空");
+                return false;
+            }
+        });
+    });
+</script>
+```

@@ -1,0 +1,33 @@
+{
+    "created_time": "2020-02-13T04:35:18Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-18T05:56:46Z",
+            "modified_time": "2020-05-18T06:32:18Z",
+            "name": "1.集合概念.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "① Collection"
+        },
+        {
+            "name": "  List、Set"
+        },
+        {
+            "name": "  工具类及比较器"
+        },
+        {
+            "name": "② Map"
+        },
+        {
+            "name": "③ Iterator迭代器"
+        }
+    ],
+    "version": "1"
+}

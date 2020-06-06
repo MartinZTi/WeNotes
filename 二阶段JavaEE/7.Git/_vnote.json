@@ -1,0 +1,91 @@
+{
+    "created_time": "2020-06-04T01:33:57Z",
+    "files": [
+        {
+            "attachment_folder": "20200604103528832_31099",
+            "attachments": [
+                {
+                    "name": "Git&GitHub.pdf"
+                }
+            ],
+            "created_time": "2020-06-04T01:38:19Z",
+            "modified_time": "2020-06-04T02:37:27Z",
+            "name": "1.Git简介&安装.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-04T01:38:35Z",
+            "modified_time": "2020-06-04T07:30:40Z",
+            "name": "2.Git使用.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-04T07:51:05Z",
+            "modified_time": "2020-06-04T09:45:18Z",
+            "name": "--2.1 Git分支.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-05T01:23:55Z",
+            "modified_time": "2020-06-05T01:33:44Z",
+            "name": "--2.2 Git冲突.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-04T01:39:00Z",
+            "modified_time": "2020-06-05T04:28:38Z",
+            "name": "3.Github简介+与Git协同办公.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-05T04:29:28Z",
+            "modified_time": "2020-06-05T06:07:41Z",
+            "name": "--3.1 GitHub协作冲突.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-04T01:39:13Z",
+            "modified_time": "2020-06-06T01:35:12Z",
+            "name": "4.IDEA中使用git.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-04T01:39:20Z",
+            "modified_time": "2020-06-04T01:39:20Z",
+            "name": "5.Git工作流.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

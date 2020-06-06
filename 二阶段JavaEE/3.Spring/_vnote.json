@@ -1,0 +1,273 @@
+{
+    "created_time": "2020-05-08T05:01:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T05:02:35Z",
+            "modified_time": "2020-05-08T09:11:13Z",
+            "name": "1.1.Spring简介.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T09:12:22Z",
+            "modified_time": "2020-05-08T09:54:26Z",
+            "name": "1.2.Spring的HelloWorld.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T09:59:05Z",
+            "modified_time": "2020-05-08T10:44:04Z",
+            "name": "2.1 IOC 和 DI简介.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T10:12:43Z",
+            "modified_time": "2020-05-08T10:14:11Z",
+            "name": "2.2 Bean配置解释.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T10:14:42Z",
+            "modified_time": "2020-05-08T11:00:56Z",
+            "name": "2.3 获取Bean的方式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T11:06:03Z",
+            "modified_time": "2020-05-09T01:29:08Z",
+            "name": "2.4 给bean的属性赋值 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-09T01:29:36Z",
+            "modified_time": "2020-05-11T08:19:58Z",
+            "name": "2.5 引用外部属性文件 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-11T08:24:32Z",
+            "modified_time": "2020-05-11T08:29:23Z",
+            "name": "3.1 自动装配.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-11T08:29:37Z",
+            "modified_time": "2020-05-11T12:18:29Z",
+            "name": "3.2 通过注解配置bean.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-11T12:20:06Z",
+            "modified_time": "2020-05-12T01:39:46Z",
+            "name": "3.3 设置扫描或不扫描哪些包下的类 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-12T01:41:55Z",
+            "modified_time": "2020-05-12T02:23:26Z",
+            "name": "3.4 通过注解的方式实现属性的自动装配.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-12T02:24:58Z",
+            "modified_time": "2020-05-12T02:26:44Z",
+            "name": "4.1 SpringMVC 的简介.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-12T02:33:28Z",
+            "modified_time": "2020-05-13T02:14:58Z",
+            "name": "4.2 SpringMVC 的 HelloWorld .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-12T03:39:31Z",
+            "modified_time": "2020-05-12T03:59:22Z",
+            "name": "4.3 SpringMVC处理简单流程分析.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T02:36:31Z",
+            "modified_time": "2020-05-13T06:04:15Z",
+            "name": "4.4 @RequestMapping 映射请求注解.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T03:23:27Z",
+            "modified_time": "2020-05-13T06:05:28Z",
+            "name": "4.5.1 @RequestParam注解.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T04:40:48Z",
+            "modified_time": "2020-05-13T06:05:54Z",
+            "name": "4.5.2 请求参数中文乱码解决.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T04:54:58Z",
+            "modified_time": "2020-05-13T06:06:14Z",
+            "name": "4.5.3 使用Servlet原生API作为参数 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T06:11:44Z",
+            "modified_time": "2020-05-13T06:24:24Z",
+            "name": "4.6.1 SpringMVC处理响应数据概述.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T06:28:03Z",
+            "modified_time": "2020-05-13T08:43:21Z",
+            "name": "4.6.2 ModelAndView .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T08:49:49Z",
+            "modified_time": "2020-05-13T09:04:51Z",
+            "name": "4.6.3 响应数据Map、Model .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T09:19:14Z",
+            "modified_time": "2020-05-13T09:25:08Z",
+            "name": "4.6.4 @ResponseBody注解 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T09:38:10Z",
+            "modified_time": "2020-05-13T09:48:00Z",
+            "name": "4.6.5 重定向 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T09:49:31Z",
+            "modified_time": "2020-05-13T10:09:00Z",
+            "name": "4.7 处理静态资源[了解].md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T10:10:33Z",
+            "modified_time": "2020-05-13T10:51:40Z",
+            "name": "5.1 Spring于SpringMVC的整合.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "1.Spring概述"
+        },
+        {
+            "name": "2.Spring bean的配置"
+        },
+        {
+            "name": "3.基于注解配置Bean"
+        },
+        {
+            "name": "4.SpringMVC"
+        },
+        {
+            "name": "5.Spring与SpringMVC整合"
+        }
+    ],
+    "version": "1"
+}

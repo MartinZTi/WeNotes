@@ -1,0 +1,151 @@
+{
+    "created_time": "2020-05-07T06:09:48Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T06:11:57Z",
+            "modified_time": "2020-05-07T06:41:05Z",
+            "name": "1.为什么使用maven.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T06:42:45Z",
+            "modified_time": "2020-05-07T06:56:58Z",
+            "name": "2.maven简介 & '构建'.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T06:56:40Z",
+            "modified_time": "2020-05-07T07:13:02Z",
+            "name": "3.构建环节.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T07:13:30Z",
+            "modified_time": "2020-05-07T09:08:52Z",
+            "name": "4.(详细) maven的核心概念.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T07:17:33Z",
+            "modified_time": "2020-05-07T07:21:39Z",
+            "name": "5.maven安装.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T07:24:04Z",
+            "modified_time": "2020-05-07T07:24:08Z",
+            "name": "6.maven本地仓库配置.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "20191226144143607_10012",
+            "attachments": [
+                {
+                    "name": "02_尚硅谷大数据技术之Maven.doc"
+                }
+            ],
+            "created_time": "2020-05-07T07:26:41Z",
+            "modified_time": "2020-05-07T07:26:41Z",
+            "name": "7.第一个maven项目(目录结构).md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T08:33:53Z",
+            "modified_time": "2020-05-07T08:38:32Z",
+            "name": "8.在Eclipse中配置Maven.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T08:49:09Z",
+            "modified_time": "2020-05-07T08:52:31Z",
+            "name": "9.设置创建Maven工程时默认的JDK的版本.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T09:06:23Z",
+            "modified_time": "2020-05-07T10:20:07Z",
+            "name": "10.依赖管理.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-07T10:24:09Z",
+            "modified_time": "2020-05-08T03:21:22Z",
+            "name": "11.继承.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T04:33:29Z",
+            "modified_time": "2020-05-08T04:45:24Z",
+            "name": "12.聚合.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T04:07:36Z",
+            "modified_time": "2020-05-08T04:33:19Z",
+            "name": "a.idea创建maven聚合项目.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-08T04:51:18Z",
+            "modified_time": "2020-05-08T04:57:34Z",
+            "name": "eclipse创建maven的web项目.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

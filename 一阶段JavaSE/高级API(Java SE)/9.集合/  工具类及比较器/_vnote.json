@@ -1,0 +1,38 @@
+{
+    "created_time": "2020-05-18T10:30:11Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-18T10:31:09Z",
+            "modified_time": "2020-05-18T10:39:42Z",
+            "name": "Collections集合工具类的方法.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-18T10:43:56Z",
+            "modified_time": "2020-05-18T10:45:19Z",
+            "name": "简述Comparable和Comparator两个接口的区别.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-18T10:47:47Z",
+            "modified_time": "2020-05-18T10:50:23Z",
+            "name": "Comparator独立和组合规则.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

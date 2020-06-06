@@ -1,0 +1,28 @@
+{
+    "created_time": "2020-05-18T05:54:33Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-18T06:12:18Z",
+            "modified_time": "2020-05-18T06:25:51Z",
+            "name": "1. Collection概述.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-18T06:26:54Z",
+            "modified_time": "2020-05-18T06:34:12Z",
+            "name": "2.Collection通用方法.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

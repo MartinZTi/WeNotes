@@ -1,0 +1,58 @@
+{
+    "created_time": "2020-05-13T05:57:08Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:57:24Z",
+            "modified_time": "2020-05-13T05:57:24Z",
+            "name": "2.1 IOC 和 DI简介.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:57:24Z",
+            "modified_time": "2020-05-13T05:57:24Z",
+            "name": "2.2 Bean配置解释.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:57:24Z",
+            "modified_time": "2020-05-13T05:57:24Z",
+            "name": "2.3 获取Bean的方式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:57:24Z",
+            "modified_time": "2020-05-13T05:57:24Z",
+            "name": "2.4 给bean的属性赋值 .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:57:24Z",
+            "modified_time": "2020-05-13T05:57:24Z",
+            "name": "2.5 引用外部属性文件 .md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

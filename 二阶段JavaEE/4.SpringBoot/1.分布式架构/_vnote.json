@@ -1,0 +1,28 @@
+{
+    "created_time": "2020-05-13T10:54:37Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T10:54:58Z",
+            "modified_time": "2020-05-13T10:55:29Z",
+            "name": "1.流行分布式架构.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T10:57:22Z",
+            "modified_time": "2020-05-13T10:57:30Z",
+            "name": "2.Spring分布式架构.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

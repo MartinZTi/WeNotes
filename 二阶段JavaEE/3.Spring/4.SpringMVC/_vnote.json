@@ -1,0 +1,57 @@
+{
+    "created_time": "2020-05-13T05:58:06Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:58:13Z",
+            "modified_time": "2020-05-13T05:58:13Z",
+            "name": "4.1 SpringMVC 的简介.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:58:13Z",
+            "modified_time": "2020-05-13T05:58:13Z",
+            "name": "4.2 SpringMVC 的 HelloWorld .md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T05:58:13Z",
+            "modified_time": "2020-05-13T05:58:13Z",
+            "name": "4.3 SpringMVC处理简单流程分析.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-05-13T06:10:45Z",
+            "modified_time": "2020-05-13T06:10:45Z",
+            "name": "4.4 @RequestMapping 映射请求注解.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "4.5 处理请求数据"
+        },
+        {
+            "name": "4.6 处理响应数据"
+        },
+        {
+            "name": "4.7 处理静态资源[了解]"
+        }
+    ],
+    "version": "1"
+}
